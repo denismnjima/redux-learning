@@ -1,0 +1,17 @@
+{
+  "name": "redux_learning",
+  "version": "1.0.0",
+  "description": "redux app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5",
+    "redux": "4.0"
+  }
+}
